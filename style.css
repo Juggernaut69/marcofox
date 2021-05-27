@@ -3282,19 +3282,19 @@ span.m_1 {
 
 
 .img-bg-01{
-	background: url(images/img-01.jpg) no-repeat center;
+	background: url(images/foto1.png) no-repeat center;
 	background-size: cover;
 }
 .img-bg-02{
-	background: url(images/img-02.jpg) no-repeat center;
+	background: url(images/foto2.png) no-repeat center;
 	background-size: cover;
 }
 .img-bg-03{
-	background: url(images/img-03.jpg) no-repeat center;
-	background-size: cover;
+	background: url(images/foto3.png) no-repeat center;
+	background-size: contain;
 }
 .img-bg-04{
-	background: url(images/img-04.jpg) no-repeat center;
+	background: url(images/foto4.png) no-repeat center;
 	background-size: cover;
 }
 
